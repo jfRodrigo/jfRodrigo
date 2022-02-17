@@ -1,6 +1,6 @@
 - Cursando Engenharia de Software e foco em Front-end
 - Estudando Typescript
-- Curiosidade em python 
+- 
 <div align="alto">
   <a href="https://github.com/jfRodrigo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfRodrigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

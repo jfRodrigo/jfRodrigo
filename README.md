@@ -1,5 +1,5 @@
-- Cursando Engenharia de Software e foco em Front-end
-- Estudando Typescript
+- Cursando Engenharia de Software e foco em Ciência de dados
+- Estudando python, sempre pythonnnn
 - 
 <div align="alto">
   <a href="https://github.com/jfRodrigo">

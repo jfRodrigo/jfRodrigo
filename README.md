@@ -1,5 +1,5 @@
-- Cursando Engenharia de Software e foco em Ciência de dados
-- Estudando python, sempre pythonnnn
+- Cursando Engenharia de Software e foco em Ciência de dados e automação
+- Estudando python, sempre python
 - 
 <div align="alto">
   <a href="https://github.com/jfRodrigo">
